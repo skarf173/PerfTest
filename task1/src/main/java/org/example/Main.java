@@ -1,3 +1,5 @@
+package org.example;
+
 public class Main {
     public static String getPath(int n, int m) {
         String path = "";
